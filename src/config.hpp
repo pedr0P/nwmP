@@ -117,7 +117,7 @@ inline __attribute__((unused)) const struct {
     { MODKEY,             XK_c,               close_window,   NULL },
 
     { MODKEY,             XK_a,               toggle_gap,     NULL },
-    { MODKEY|ShiftMask,   XK_t,               toggle_layout,  NULL },
+    { MODKEY,             XK_l,               toggle_layout,  NULL },
     { MODKEY,             XK_f,               toggle_fullscreen, NULL },
     { MODKEY|ShiftMask,   XK_f,               toggle_scroll_maximize, NULL },
     { MODKEY|ShiftMask,   XK_space,           toggle_float,   NULL },
