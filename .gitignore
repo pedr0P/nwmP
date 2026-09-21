@@ -4,7 +4,6 @@ thirdparty
 Todo.md
 build
 install.sh
-src/config.hpp
 TAGS
 test.sh
 src/extension/zoomer/zoomer
