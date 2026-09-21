@@ -7,3 +7,4 @@ install.sh
 TAGS
 test.sh
 src/extension/zoomer/zoomer
+.cache
