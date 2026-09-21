@@ -73,7 +73,7 @@
                             gnumake
                             git
                             xrandr
-                            libX11
+                            libx11
                             libxft
                             libxrender
                             libxinerama
